@@ -37,7 +37,6 @@ const styleName = `${styleFolderName}/style.css`;
 const imageFolder = `${scaffoldFolder}/images`;
 
 function createFolders() {
-    // folderName = `${scaffoldFolder}/${foldername}`
     try {
         if (!fs.existsSync(scaffoldFolder)) {
             fs.mkdirSync(scaffoldFolder);
@@ -72,7 +71,7 @@ function createFiles() {
     }
 }
 
-// This function creates 
+// This function creates the folders and files and gives output.
 function generateScaffold() {
     createFolders();
     createFiles();
