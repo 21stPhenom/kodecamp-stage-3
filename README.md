@@ -31,9 +31,11 @@ If the scaffold creation is successful, `Frontend scaffold created successfully`
 ![Screenshot of terminal input](./img/terminal.png)
 
 The `frontend-scaffold` folder will be visible in your file explorer.
-![frontend-scaffold folder in explorer](./img/frontend_scaffold.png)
 
-You can expand the folder and its subfolders to view the contents
+![frontend-scaffold folder in explorer](./img/frontend_scaffold.png)
+---
+You can expand the folder and its subfolders to view the contents.
+
 ![frontend-scaffold folder expanded to show contents](./img/frontend-scaffold-expanded.png)
 
 2. Make changes to the files or folder structure as it suits your needs.
